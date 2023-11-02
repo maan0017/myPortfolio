@@ -1,0 +1,25 @@
+/* hover area down below !!! */
+
+.span1:hover {
+    color: lightcoral;
+}
+
+.span1:active {
+    color: maroon;
+}
+
+.opt:hover {
+    color: aliceblue;
+}
+
+.opt:active {
+    color: lightgreen;
+}
+
+#ResumeButton:hover {
+    background-color: lightblue;
+}
+
+#ResumeButton:active {
+    background-color: lightgreen;
+}
